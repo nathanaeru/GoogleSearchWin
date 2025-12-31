@@ -8,7 +8,7 @@ When you type in your Start Menu and press Enter, it launches your default brows
 
 ## Demo
 
-[![Demo Video](assets/thumb.png)](assets/demo.mp4)
+![Demo Video](assets/demo.gif)
 
 ## Important: Requirements
 
