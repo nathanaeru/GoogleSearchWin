@@ -26,7 +26,7 @@ To use this custom search provider, **Microsoft requires your Windows Region to 
 
 ## How to Download
 
-Get one from the [release](https://github.com/nathanaeru/google-search-win/releases/latest) page.
+Get one from the [release](https://github.com/nathanaeru/GoogleSearchWin/releases/latest) page.
 
 ## How to Install
 
