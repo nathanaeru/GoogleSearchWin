@@ -6,6 +6,10 @@ When you type in your Start Menu and press Enter, it launches your default brows
 
 > **Disclaimer:** This software is an independent personal project. It is **not** affiliated with, endorsed by, or connected to Google LLC or Microsoft Corporation.
 
+## Demo
+
+[![Demo Video](assets/thumb.png)](assets/demo.mp4)
+
 ## Important: Requirements
 
 To use this custom search provider, **Microsoft requires your Windows Region to be set to an EEA (European Economic Area) country.** This is due to the Digital Markets Act (DMA).
